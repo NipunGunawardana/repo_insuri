@@ -1,0 +1,14 @@
+com.lk.euro_insu_proj.app-jetified-window-1.0.0-beta04-0 /Users/siot/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.lk.euro_insu_proj.app-jetified-annotation-experimental-1.1.0-1 /Users/siot/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.lk.euro_insu_proj.app-core-1.6.0-2 /Users/siot/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.lk.euro_insu_proj.app-jetified-window-java-1.0.0-beta04-3 /Users/siot/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.lk.euro_insu_proj.app-debug-4 /Users/siot/flutterDevelopments/euro_insu_proj/android/app/src/debug/res
+com.lk.euro_insu_proj.app-main-5 /Users/siot/flutterDevelopments/euro_insu_proj/android/app/src/main/res
+com.lk.euro_insu_proj.app-pngs-6 /Users/siot/flutterDevelopments/euro_insu_proj/build/app/generated/res/pngs/debug
+com.lk.euro_insu_proj.app-resValues-7 /Users/siot/flutterDevelopments/euro_insu_proj/build/app/generated/res/resValues/debug
+com.lk.euro_insu_proj.app-rs-8 /Users/siot/flutterDevelopments/euro_insu_proj/build/app/generated/res/rs/debug
+com.lk.euro_insu_proj.app-mergeDebugResources-9 /Users/siot/flutterDevelopments/euro_insu_proj/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.lk.euro_insu_proj.app-mergeDebugResources-10 /Users/siot/flutterDevelopments/euro_insu_proj/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.lk.euro_insu_proj.app-merged_res-11 /Users/siot/flutterDevelopments/euro_insu_proj/build/app/intermediates/merged_res/debug
+com.lk.euro_insu_proj.app-packaged_res-12 /Users/siot/flutterDevelopments/euro_insu_proj/build/fluttertoast/intermediates/packaged_res/debug
+com.lk.euro_insu_proj.app-packaged_res-13 /Users/siot/flutterDevelopments/euro_insu_proj/build/shared_preferences_android/intermediates/packaged_res/debug

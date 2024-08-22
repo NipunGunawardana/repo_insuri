@@ -1,0 +1,4 @@
+#Thu Aug 22 18:23:04 IST 2024
+base.0=/Users/siot/flutterDevelopments/euro_insu_proj/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
